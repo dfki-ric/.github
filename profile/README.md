@@ -35,5 +35,7 @@ and maintains the following software:
   is a hierarchical perception library based on deep learning.
 * [PySpace](http://pyspace.github.io/pyspace/) is a signal processing and
   classification environment in Python.
+* [Underactuated Lab](https://github.com/dfki-ric-underactuated-lab):
+  Open source software released by the Underactuated Robotics Lab at DFKI RIC.
 
 [Imprint](https://dfki-ric.github.io/Imprint/)
