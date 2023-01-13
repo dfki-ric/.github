@@ -1,7 +1,7 @@
 # DFKI Robotics Innovation Center
 
 This is a collection of open source software released by the
-[DFKI Robotics Innovation Center]( https://robotik.dfki-bremen.de).
+[Robotics Innovation Center]( https://robotik.dfki-bremen.de) of DFKI (German Research Center for Artificial Intelligence).
 
 In addition to the software under this organization, DFKI RIC also released
 and maintains the following software:
