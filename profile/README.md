@@ -39,3 +39,4 @@ and maintains the following software:
   Open source software released by the Underactuated Robotics Lab at DFKI RIC.
 
 [Imprint](https://dfki-ric.github.io/Imprint/)
+[Legal information](https://robotik.dfki-bremen.de/en/legal-information.html)
