@@ -6,7 +6,7 @@ This is a collection of open source software developed by the
 In addition to the software under this organization, DFKI RIC also released
 and maintains the following software:
 
-<table cellpadding="0" cellspacing="0" width="100%" border="0">
+<table cellpadding="0" cellspacing="0" width="100%" border="0" style="border:none">
     <tr>
         <td width="200px"><img src="rock.png"/></td>
         <td><a href="https://rock-robotics.org">Rock</a> (Robot Construction Kit) is a middleware for robotic software development. It has a large infrastructure and modules are distributed over multiple GitHub organizations: 
