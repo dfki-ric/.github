@@ -34,7 +34,7 @@ and maintains the following software:
         <td><a href="https://github.com/ARC-OPT">ARC-OPT</a> (Adaptive Robot Control using Optimization) is a collection of tools for optimization-based control of robotic systems.</td>
     </tr>
     <tr>
-        <td width="200px"><img src="profile/envire.png" width="50%"/></td>
+        <td width="200px"><img src="profile/envire.png"/></td>
         <td><a href="https://github.com/envire">EnviRe</a> (Environment Representation) can be used to represent information of the environment for a robotic system.</td>
     </tr>
     <tr>
