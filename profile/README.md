@@ -34,19 +34,19 @@ and maintains the following software:
         <td><a href="https://github.com/ARC-OPT">ARC-OPT</a> (Adaptive Robot Control using Optimization) is a collection of tools for optimization-based control of robotic systems.</td>
     </tr>
     <tr>
-        <td width="200px" style="text-align:center"><img src="envire.png" width="50%"/></td>
+        <td width="200px"><img src="envire.png" width="50%"/></td>
         <td><a href="https://github.com/envire">EnviRe</a> (Environment Representation) can be used to represent information of the environment for a robotic system.</td>
     </tr>
     <tr>
-        <td width="200px" style="text-align:center"><img src="paz.jpg" width="50%"/></td>
+        <td width="200px"><img src="paz.jpg"/></td>
         <td><a href="https://github.com/oarriaga/paz">PAZ</a> (Perception for Autonomous Systems) is a hierarchical perception library based on deep learning.</td>
     </tr>
     <tr>
-        <td width="200px" style="text-align:center"><img src="pyspace.png" width="50%"/></td>
+        <td width="200px"><img src="pyspace.png"/></td>
         <td><a href="http://pyspace.github.io/pyspace/">PySpace</a> is a signal processing and classification environment in Python.</td>
     </tr>
     <tr>
-        <td width="200px" style="text-align:center"><img src="underactuated.jpeg" width="50%"/></td>
+        <td width="200px"><img src="underactuated.jpeg"/></td>
         <td><a href="https://github.com/dfki-ric-underactuated-lab">Underactuated Lab</a>: Open source software released by the Underactuated Robotics Lab at DFKI RIC.</td>
     </tr>
 </table>
