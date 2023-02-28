@@ -46,7 +46,7 @@ and maintains the following software:
         <td><a href="http://pyspace.github.io/pyspace/">PySpace</a> is a signal processing and classification environment in Python.</td>
     </tr>
     <tr>
-        <td width="200px"><img src="underactuated.png"/></td>
+        <td width="200px"><img src="underactuated.jpeg"/></td>
         <td><a href="https://github.com/dfki-ric-underactuated-lab">Underactuated Lab</a>: Open source software released by the Underactuated Robotics Lab at DFKI RIC.</td>
     </tr>
 </table>
