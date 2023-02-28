@@ -6,6 +6,13 @@ This is a collection of open source software developed by the
 In addition to the software under this organization, DFKI RIC also released
 and maintains the following software:
 
+<table>
+    <tr>
+        <td><img src="arc-opt.svg"/></td>
+        <td>[ARC-OPT](https://github.com/ARC-OPT) (Adaptive Robot Control using Optimization) is a collection of tools for optimization-based control of robotic systems.</td>
+    </tr>
+</table>
+
 * [Rock](https://rock-robotics.org) (Robot Construction Kit) is a middleware
   for robotic software development. It has a large infrastructure and modules
   are distributed over multiple GitHub organizations:
