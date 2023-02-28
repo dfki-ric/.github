@@ -16,7 +16,7 @@ and maintains the following software:
   <a href="https://github.com/rock-control">rock-control</a>,
   <a href="https://github.com/rock-perception">rock-perception</a>,
   <a href="https://github.com/rock-slam">rock-slam</a>,
-  <a href="https://github.com/rock-planning>rock-planning</a>,
+  <a href="https://github.com/rock-planning">rock-planning</a>,
   <a href="https://github.com/rock-simulation">rock-simulation</a>,
   <a href="https://github.com/rock-learning">rock-learning</a>,
   <a href="https://github.com/rock-multiagent">rock-multiagent</a>,
