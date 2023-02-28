@@ -8,8 +8,8 @@ and maintains the following software:
 
 <table cellpadding="0" cellspacing="0" width="100%" border="0">
     <tr>
-        <td><img src="arc-opt.svg"/></td>
-        <td><a href="https://github.com/ARC-OPT" width="200px">ARC-OPT</a> (Adaptive Robot Control using Optimization) is a collection of tools for optimization-based control of robotic systems.</td>
+        <td width="200px"><img src="arc-opt.svg"/></td>
+        <td><a href="https://github.com/ARC-OPT">ARC-OPT</a> (Adaptive Robot Control using Optimization) is a collection of tools for optimization-based control of robotic systems.</td>
     </tr>
 </table>
 
