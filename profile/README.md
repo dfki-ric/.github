@@ -6,10 +6,10 @@ This is a collection of open source software developed by the
 In addition to the software under this organization, DFKI RIC also released
 and maintains the following software:
 
-<table>
+<table cellpadding="0" cellspacing="0" width="100%" border="0">
     <tr>
         <td><img src="arc-opt.svg"/></td>
-        <td>[ARC-OPT](https://github.com/ARC-OPT) (Adaptive Robot Control using Optimization) is a collection of tools for optimization-based control of robotic systems.</td>
+        <td><a href="https://github.com/ARC-OPT" width="200px">ARC-OPT</a> (Adaptive Robot Control using Optimization) is a collection of tools for optimization-based control of robotic systems.</td>
     </tr>
 </table>
 
