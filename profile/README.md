@@ -42,7 +42,7 @@ both.
     </tr>
     <tr>
         <td width="120px"></td>
-        <td><a href="https://github.com/dfki-ric/slam3d">SLAM3D</a>: The SLAM3D library is a standalone framework for multimodal graph based Simultaneous Localization and Mapping. It's main purpose is to hold arbitrary measurements from various sensors (and possibly various agents) in a graph structure. Maps can be created from specific sensor types (e.g. pointclouds with PCL) using the readings within the graph. Global relaxation is done by an optimization backend, currently g²o.</td>
+        <td><a href="https://github.com/dfki-ric/slam3d">SLAM3D</a>: The SLAM3D library is a standalone framework for multimodal graph-based Simultaneous Localization and Mapping. Its main purpose is to hold arbitrary measurements from various sensors (and possibly various agents) in a graph structure. Maps can be created from specific sensor types (e.g., pointclouds with PCL) using the readings within the graph. Global relaxation is done by an optimization backend, currently g²o.</td>
     </tr>
     <tr>
         <td width="120px"><img src="profile/envire.png"/></td>
