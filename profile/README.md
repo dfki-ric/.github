@@ -30,12 +30,24 @@ and maintains the following software:
         <td><a href="https://rock-simulation.github.io/mars/">MARS</a> (robot simulation) is a cross-platform simulation and visualisation tool created for robotics research.</td>
     </tr>
     <tr>
+        <td width="120px"><img src="profile/phobos.png"/></td>
+        <td><a href="https://github.com/dfki-ric/phobos">Phobos</a> Phobos is an add-on for the open-source 3D modeling software Blender that enables the creation of WYSIWYG robot models for use in robot frameworks like ROS and ROCK or in real-time simulations such as MARS or Gazebo. Phobos exports formats such as URDF, SDF or SMURF and common mesh formats (Stereolithography (.stl), Wavefront (.obj) or Collada (.dae)).</td>
+    </tr>
+    <tr>
         <td width="120px"><img src="profile/arc-opt.svg"/></td>
         <td><a href="https://github.com/ARC-OPT">ARC-OPT</a> (Adaptive Robot Control using Optimization) is a collection of tools for optimization-based control of robotic systems.</td>
     </tr>
     <tr>
+        <td width="120px"></td>
+        <td><a href="https://github.com/dfki-ric/slam3d">SLAM3D</a>: The SLAM3D library is a standalone framework for multimodal graph based Simultaneous Localization and Mapping. It's main purpose is to hold arbitrary measurements from various sensors (and possibly various agents) in a graph structure. Maps can be created from specific sensor types (e.g. pointclouds with PCL) using the readings within the graph. Global relaxation is done by an optimization backend, currently g²o.</td>
+    </tr>
+    <tr>
         <td width="120px"><img src="profile/envire.png"/></td>
         <td><a href="https://github.com/envire">EnviRe</a> (Environment Representation) can be used to represent information of the environment for a robotic system.</td>
+    </tr>
+    <tr>
+        <td width="120px"><img src="profile/pytransform3d.png"/></td>
+        <td><a href="https://github.com/dfki-ric/pytransform3d">pytransform3d</a>: A Python library for transformations in three dimensions.</td>
     </tr>
     <tr>
         <td width="120px"><img src="profile/paz.jpg"/></td>
@@ -44,6 +56,10 @@ and maintains the following software:
     <tr>
         <td width="120px"><img src="profile/pyspace.png"/></td>
         <td><a href="http://pyspace.github.io/pyspace/">PySpace</a> is a signal processing and classification environment in Python.</td>
+    </tr>
+    <tr>
+        <td width="120px"><img src="profile/movement_primitives.png"/></td>
+        <td><a href="https://github.com/dfki-ric/movement_primitives">movement_primitives</a> Dynamical movement primitives (DMPs), probabilistic movement primitives (ProMPs), and spatially coupled bimanual DMPs for imitation learning.</td>
     </tr>
     <tr>
         <td width="120px"><img src="profile/underactuated.jpeg"/></td>
