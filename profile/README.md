@@ -62,7 +62,7 @@ both.
     </tr>
     <tr>
         <td width="120px"><img src="profile/movement_primitives.png"/></td>
-        <td><a href="https://github.com/dfki-ric/movement_primitives">movement_primitives</a> Dynamical movement primitives (DMPs), probabilistic movement primitives (ProMPs), and spatially coupled bimanual DMPs for imitation learning.</td>
+        <td><a href="https://github.com/dfki-ric/movement_primitives">movement_primitives</a>: Dynamical movement primitives (DMPs), probabilistic movement primitives (ProMPs), and spatially coupled bimanual DMPs for imitation learning.</td>
     </tr>
     <tr>
         <td width="120px"><img src="profile/underactuated.jpeg"/></td>
