@@ -68,6 +68,10 @@ both.
         <td width="120px"><img src="profile/underactuated.jpeg"/></td>
         <td><a href="https://github.com/dfki-ric-underactuated-lab">Underactuated Lab</a>: Open source software released by the Underactuated Robotics Lab at DFKI RIC.</td>
     </tr>
+    <tr>
+        <td width="120px"><img src="https://avatars.githubusercontent.com/u/116574341?s=200&v=4"/></td>
+        <td><a href="https://github.com/dfki-ric-quantum/">DFKI RIC Team QML</a>: Open source software released by the team Quantum Machine Learning (QML) at DFKI RIC.</td>
+    </tr>
 </table>
 
 [Imprint](https://dfki-ric.github.io/Imprint/) - [Legal information](https://robotik.dfki-bremen.de/en/legal-information.html)
