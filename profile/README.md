@@ -34,7 +34,7 @@ both.
     </tr>
     <tr>
         <td width="120px"><img src="profile/phobos.png"/></td>
-        <td><a href="https://github.com/dfki-ric/phobos">Phobos</a> Phobos is an add-on for the open-source 3D modeling software Blender that enables the creation of WYSIWYG robot models for use in robot frameworks like ROS and ROCK or in real-time simulations such as MARS or Gazebo. Phobos exports formats such as URDF, SDF or SMURF and common mesh formats (Stereolithography (.stl), Wavefront (.obj) or Collada (.dae)).</td>
+        <td><a href="https://github.com/dfki-ric/phobos">Phobos</a> Phobos is an add-on for the open-source 3D modeling software Blender that enables the creation of WYSIWYG robot models for use in robot frameworks like ROS and ROCK or in real-time simulations such as MARS or Gazebo. Phobos exports formats such as <a href="https://wiki.ros.org/urdf#Creating_URDF">URDF</a>, SDF or SMURF and common mesh formats (Stereolithography (.stl), Wavefront (.obj) or Collada (.dae)).</td>
     </tr>
     <tr>
         <td width="120px"><img src="profile/arc-opt.svg"/></td>
