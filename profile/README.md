@@ -72,6 +72,11 @@ both.
         <td width="120px"><img src="https://avatars.githubusercontent.com/u/116574341?s=200&v=4"/></td>
         <td><a href="https://github.com/dfki-ric-quantum/">DFKI RIC Team QML</a>: Open source software released by the team Quantum Machine Learning (QML) at DFKI RIC.</td>
     </tr>
+    <tr>
+        <td width="120px"><img src="ugv_nav4d_logo.jpeg"/></td>
+        <td><a href="https://github.com/dfki-ric/ugv_nav4d.git">UGV_NAV4D</a>: The ugv_nav4d is a path planner for unmanned grounded vehicles (UGV's) which can be used to navigate complex indoor and outdoor environments. It provides a traversable, motion constraint compliant, and collision free trajectory. It is highly customizable and can be used for any type of terrestrial robot..</td>
+    </tr>
+
 </table>
 
 [Imprint](https://dfki-ric.github.io/Imprint/) - [Legal information](https://robotik.dfki-bremen.de/en/legal-information.html)
