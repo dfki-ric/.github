@@ -84,6 +84,10 @@ both.
         <td width="120px"><img src="rrc.jpeg"/></td>
         <td><a href="https://github.com/dfki-ric/robot_remote_control.git">Robot Remote Control</a>: Leightwight Remote Interface Library for Mobile Robots</td>
     </tr>
+    <tr>
+        <td width="120px"><img src="docker_image_development.jpeg"/></td>
+        <td><a href="https://github.com/dfki-ric/docker_image_development.git">Docker Image Development</a>: Scripts to use docker as development environment with GUIs and 3d acceleration. Uses mounted code but also allowing to build fully functional images</td>
+    </tr>
 </table>
 
 [Imprint](https://dfki-ric.github.io/Imprint/) - [Legal information](https://robotik.dfki-bremen.de/en/legal-information.html)
