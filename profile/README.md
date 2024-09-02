@@ -80,7 +80,10 @@ both.
         <td></td>
         <td><a href="https://github.com/oarriaga/bayesian-inverse-graphics">BIG</a> (Bayesian Inverse Graphics): Code for the paper "Bayesian Inverse Graphics for Few-Shot Concept Learning".</td>
     </tr>
-
+    <tr>
+        <td width="120px"><img src="rrc.jpeg"/></td>
+        <td><a href="https://github.com/dfki-ric/robot_remote_control.git">Robot Remote Control</a>: Leightwight Remote Interface Library for Mobile Robots</td>
+    </tr>
 </table>
 
 [Imprint](https://dfki-ric.github.io/Imprint/) - [Legal information](https://robotik.dfki-bremen.de/en/legal-information.html)
