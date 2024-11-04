@@ -1,4 +1,4 @@
-![DFKI GmbH, Robotics Innovation Center](profile/DFKI_RIC_RGB.jpg)
+![DFKI GmbH, Robotics Innovation Center](DFKI_RIC_RGB.jpg)
 
 This is a collection of open source software developed by the
 [Robotics Innovation Center (RIC)](https://robotik.dfki-bremen.de/en/startpage.html)
