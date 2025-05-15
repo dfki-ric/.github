@@ -88,6 +88,10 @@ both.
         <td width="120px"><img src="docker_image_development.jpeg"/></td>
         <td><a href="https://github.com/dfki-ric/docker_image_development.git">Docker Image Development</a>: Scripts to use docker as development environment with GUIs and 3d acceleration. Uses mounted code but also allowing to build fully functional images</td>
     </tr>
+    <tr>
+        <td width="120px"><img src="https://raw.githubusercontent.com/mlaux1/rl-blox/refs/heads/main/doc/source/_static/rl_blox_logo_v1.png"/></td>
+        <td><a href="https://github.com/mlaux1/rl-blox/">RL-BLOX</a>: Modular JAX-based toolbox for implementing RL algorithms.</td>
+    </tr>
 </table>
 
 [Imprint](https://dfki-ric.github.io/Imprint/) - [Legal information](https://robotik.dfki-bremen.de/en/legal-information.html)
