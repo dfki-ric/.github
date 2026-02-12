@@ -92,6 +92,10 @@ both.
         <td width="120px"><img src="https://raw.githubusercontent.com/mlaux1/rl-blox/refs/heads/main/doc/source/_static/rl_blox_logo_v1.png"/></td>
         <td><a href="https://github.com/mlaux1/rl-blox/">RL-BLOX</a>: Modular JAX-based toolbox for implementing RL algorithms.</td>
     </tr>
+    <tr>
+        <td width="120px"><img src="https://avatars.githubusercontent.com/u/226314852"/></td>
+        <td><a href="https://github.com/NDLCom">NDLCom</a>: Node Level Data Link Communication protocol</td>
+    </tr>
 </table>
 
 [Imprint](https://dfki-ric.github.io/Imprint/) - [Legal information](https://robotik.dfki-bremen.de/en/legal-information.html)
