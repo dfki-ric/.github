@@ -94,7 +94,11 @@ both.
     </tr>
     <tr>
         <td width="120px"><img src="https://avatars.githubusercontent.com/u/226314852"/></td>
-        <td><a href="https://github.com/NDLCom">NDLCom</a>: Node Level Data Link Communication protocol</td>
+        <td><a href="https://github.com/NDLCom">NDLCom</a>: Node Level Data Link Communication protocol.</td>
+    </tr>
+    <tr>
+        <td width="120px"><img src="https://avatars.githubusercontent.com/u/277213809?s=200&v=4"/></td>
+        <td><a href="https://github.com/esa-esric-bremen">Team BREMEN</a>: Code of the winning team (Team BREMEN) at the ESA ESRIC Challenge 2025.</td>
     </tr>
 </table>
 
