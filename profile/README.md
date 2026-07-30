@@ -5,7 +5,7 @@ This is a collection of open source software developed by the
 of [DFKI GmbH](https://github.com/dfki) (German Research Center for Artificial
 Intelligence GmbH).
 
-There is also a [global list](https://github.com/DFKI/Awesome-DFKI) of DFKIs open souce software.
+There is also a [global list](https://github.com/DFKI/Awesome-DFKI) of DFKI's open source software.
 
 In addition to the software under this organization, DFKI RIC also released
 and maintains software in other GitHub organizations. Here is an overview of
